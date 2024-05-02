@@ -1,1 +1,1 @@
-# SVM-from-scratch
+# STATUS: IN PROGRESS
