@@ -5,6 +5,6 @@
 - Nada Gamal-Eldien
 - Ahmed Abdalal
 - Mohammed Tarek
-- Mariam Salem
-- Mariam Mahmoud
-- Joumana
+- Mariam Hafez
+- Mariam Abdelsalam
+- Joumana Hossam
